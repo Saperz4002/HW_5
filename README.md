@@ -1,4 +1,4 @@
-# Mie scattering homework — Python script and notebook
+# Mie scattering homework
 
 Open `HW5_Mie.ipynb` in VS Code or Jupyter and run its cells from top to bottom. Each result appears in its own section. The notebook has no precomputed outputs. Alternatively, run `python mie_homework.py` from this extracted folder. Install dependencies with `python -m pip install -r requirements.txt`. The script writes figures, spectra, numerical comparisons, and a brief results summary to `results/`. Use `python mie_homework.py --show` to open plot windows. For a faster run without field maps, use `python mie_homework.py --no-fields`.
 
